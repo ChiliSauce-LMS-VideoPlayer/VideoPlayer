@@ -6,6 +6,7 @@ export default function Page() {
       <Header text="Web" />
       <Header text="Web" />
       <Header text="Web" />
+      <Header text="Hello World!" />
       <Button />
       <Button />
       <Button />
