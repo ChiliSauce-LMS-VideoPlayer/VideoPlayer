@@ -14,5 +14,8 @@
     "turbo": "latest"
   },
   "packageManager": "pnpm@7.15.0",
-  "name": "VideoPlayer"
+  "name": "VideoPlayer",
+  "dependencies": {
+    "react-player": "^2.12.0"
+  }
 }
